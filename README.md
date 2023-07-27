@@ -1,12 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">MERN Stack and SNOWFLAKE</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="aadityasinghh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityasinghh" alt="aadityasinghh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aadityasinghh_" target="blank"><img src="https://img.shields.io/twitter/follow/aadityasinghh_?logo=twitter&style=for-the-badge" alt="aadityasinghh_" /></a> </p>
 

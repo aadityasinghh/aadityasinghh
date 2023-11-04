@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadityasinghh](https://github.com/aadityasinghh)
 
-- 💬 Ask me about **JavaScript, JAVA and**
+- 💬 Ask me about **JavaScript, JAVA and SQL**
 
 - 📫 How to reach me **a.adityasingh@yahoo.com**
 

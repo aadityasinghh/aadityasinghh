@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/aadityasinghh_" target="blank"><img src="https://img.shields.io/twitter/follow/aadityasinghh_?logo=twitter&style=for-the-badge" alt="aadityasinghh_" /></a> </p>
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
-kil
+
 - 👯 I’m looking to collaborate on **MERN Stack projects or anything which gives me an opportunity to learn new technologies and enhance myskills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadityasinghh](https://github.com/aadityasinghh)

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects or anything which gives me an opportunity to learn new technologies and enhance myskills**
+- 👯 I’m looking to collaborate on **MERN Stack projects or anything which gives me an opportunity to learn new technologies and enhance my skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadityasinghh](https://github.com/aadityasinghh)
 
